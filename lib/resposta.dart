@@ -13,7 +13,7 @@ Resposta(this.texto, this.quandoSelecionado);
       child: ElevatedButton(
         
         child: Text(texto,
-        style: TextStyle(color: Colors.white),
+        style: TextStyle(color: Colors.white, fontSize: 20),
         ),
         onPressed: quandoSelecionado,
       ),
