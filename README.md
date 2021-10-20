@@ -1,3 +1,6 @@
+
+-----> Para iniciar o projeto no Terminal digite "flutter pub get" , para fazer o download de todas as dependencias.
+
 # appperguntas
 
 A new Flutter project.
